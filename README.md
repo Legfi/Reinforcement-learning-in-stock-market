@@ -10,7 +10,7 @@ This project implements a custom OpenAI Gym environment for simulating Bitcoin t
 - Evaluation of net worth and profit/loss percentage.
 
 ## Requirements
-- Python
+- [Python](https://www.python.org)
 - [Stable Baselines3](https://github.com/DLR-RM/stable-baselines3)
 - [yfinance](https://github.com/ranaroussi/yfinance)
 - [matplotlib](https://matplotlib.org/)
