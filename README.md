@@ -1,4 +1,4 @@
-# Reinforcement-learning-in-stock-market
+# Reinforcement learning in stock market
 
 ## Description
 This project implements a custom OpenAI Gym environment for simulating Bitcoin trading using reinforcement learning. It allows users to train reinforcement learning agents to make trading decisions (buy, sell, or hold) based on historical Bitcoin price data.
