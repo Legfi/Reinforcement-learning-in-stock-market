@@ -1,4 +1,4 @@
-# Bitcoin Trading Environment with Reinforcement Learning
+# Reinforcement-learning-in-stock-market
 
 ## Description
 This project implements a custom OpenAI Gym environment for simulating Bitcoin trading using reinforcement learning. It allows users to train reinforcement learning agents to make trading decisions (buy, sell, or hold) based on historical Bitcoin price data.
@@ -18,7 +18,7 @@ This project implements a custom OpenAI Gym environment for simulating Bitcoin t
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Legfi/Reinforcement-learning-in-stock-market.git
    ```
 2. Install dependencies:
    ```bash
@@ -27,7 +27,7 @@ This project implements a custom OpenAI Gym environment for simulating Bitcoin t
 
 ## Usage
 1. Run the `train_model.ipynb` notebook to train the reinforcement learning model on the Bitcoin trading environment.
-2. Once trained, use the trained model to make trading decisions and simulate trading using the `simulate_trading.ipynb` notebook.
+2. Once trained, use the trained model to make trading decisions and simulate trading.
 3. Customize the environment and experiment with different reinforcement learning algorithms and hyperparameters as needed.
 
 ## Example
@@ -58,9 +58,9 @@ This project is licensed under the [MIT License](LICENSE).
 - Inspiration from OpenAI Gym and Stable Baselines3.
 
 ## Contributors
-- [Your Name](https://github.com/your-username)
+- [Dadmehr Berahmandzadeh](https://github.com/Legfi)
 
 ## Support
-For any questions or issues, please open an [issue](https://github.com/your-username/your-repository/issues) on GitHub.
+For any questions or issues, please open an [issue](https://github.com/Legfi/Reinforcement-learning-in-stock-market/issues) on GitHub.
 
 ---
