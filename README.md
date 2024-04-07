@@ -8,12 +8,15 @@ This project implements a custom OpenAI Gym environment for simulating Bitcoin t
 - Support for various reinforcement learning algorithms via the Stable Baselines3 library.
 - Visualization of trading actions taken by the RL agent.
 - Evaluation of net worth and profit/loss percentage.
+- Alternative implementation using the 'gym_anytrading' environment.
 
 ## Requirements
 - [Python](https://www.python.org)
 - [Stable Baselines3](https://github.com/DLR-RM/stable-baselines3)
 - [yfinance](https://github.com/ranaroussi/yfinance)
 - [matplotlib](https://matplotlib.org/)
+- [gym](https://github.com/openai/gym)
+- [gym-anytrading](https://github.com/AminHP/gym-anytrading)
 
 ## Installation
 1. Clone the repository:
@@ -29,6 +32,7 @@ This project implements a custom OpenAI Gym environment for simulating Bitcoin t
 1. Run the `train_model.ipynb` notebook to train the reinforcement learning model on the Bitcoin trading environment.
 2. Once trained, use the trained model to make trading decisions and simulate trading.
 3. Customize the environment and experiment with different reinforcement learning algorithms and hyperparameters as needed.
+4. Alternatively, you can explore the 'gym_anytrading_example.ipynb' notebook to use the 'gym_anytrading' environment for Bitcoin trading simulation.
 
 ## Example
 ```python
@@ -62,5 +66,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Support
 For any questions or issues, please open an [issue](https://github.com/Legfi/Reinforcement-learning-in-stock-market/issues) on GitHub.
+
+## Ongoing Project
+This project is ongoing, and future updates may include the integration of decision transformers for improved trading strategies.
+
 
 ---
